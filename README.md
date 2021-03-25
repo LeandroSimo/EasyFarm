@@ -35,10 +35,10 @@ Para clonar e executar esse app você precisará do [Git](https://git-scm.com) +
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/LeandroSimo/App_EasyFarm.git
+$ git clone https://github.com/LeandroSimo/EasyFarm.git
 
 # Entre no repositório
-$ cd App_EasyFarm/
+$ cd EasyFarm/
 
 # Instale as dependências
 $ flutter pub get
